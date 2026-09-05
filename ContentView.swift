@@ -7,11 +7,13 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundColor(.yellow)
             
-            Text("ios 26.5")
+            Text("ios 26.2.1")
                 .foregroundColor(.gray)
             
             Text("ipnohe 15 pro, 128 gb, black titanium")
-                .foregroundColor(.gray)
+                .foregroundColor(.black)
+                .font(.headline)
+            
         }
         .padding()
     }
