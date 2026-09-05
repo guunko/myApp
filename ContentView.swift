@@ -9,6 +9,7 @@ struct ContentView: View {
             
             Text("ios 26.2.1")
                 .foregroundColor(.gray)
+                .font(.body)
             
             Text("ipnohe 15 pro, 128 gb, black titanium")
                 .foregroundColor(.black)
